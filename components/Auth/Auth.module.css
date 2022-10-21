@@ -1,0 +1,48 @@
+.box{
+    width: 500px;
+    background: rgba(0, 0, 0, 0.8);
+    margin-top:25px ;
+    padding: 15px 0;
+    
+    
+    
+}
+
+.container input{
+    width: 90%;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: #fff;
+    
+}
+
+.title{
+    text-align: center;
+    color: #fff;
+}
+
+.container{
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   
+}
+
+.inscrie{
+    text-align: center;
+    margin-top: 35px;
+    color: #fff;
+
+}
+
+.a{
+    font-weight: bold;
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.google{
+    text-align: center;
+    margin-left: 125px;
+    margin-top: 50px;
+}
